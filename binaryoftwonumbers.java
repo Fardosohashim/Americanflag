@@ -23,7 +23,7 @@ public class binaryoftwonumbers {
 
         System.out.println("n1 : "+ Integer.toBinaryString(n1));
         System.out.println("n2 : "+ Integer.toBinaryString(n2));
-        System.out.println("n3 = n1+n2 : "+ Integer.toBinaryString(n3));
+        System.out.println("The sum of two binary numbers is: "+ Integer.toBinaryString(n3));
 
     }
 }
